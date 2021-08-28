@@ -6,7 +6,6 @@ Operating System (OS) is like the heart of a computer. Even though all the hardw
 <br>
 
 1)**PROCESS SCHEDULING**
-
 <br>
   ➢FCFS <br>               
   ➢SJF  <br>             
@@ -20,7 +19,6 @@ Operating System (OS) is like the heart of a computer. Even though all the hardw
   <br>
   
 2)**PROCESS SYNCHRONIZATION**
-
 <br>
   ➢READERS-WRITERS<br>
   ➢PRODUCER-CONSUMER<br>
