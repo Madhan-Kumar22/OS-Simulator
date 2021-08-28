@@ -7,15 +7,15 @@ Operating System (OS) is like the heart of a computer. Even though all the hardw
 
 1)**PROCESS SCHEDULING**
 <br>
-  ➢FCFS               
-  ➢SJF              
-  ➢Round Robin          
-  ➢SRTF        
-  ➢LRTF       
-  ➢LJF       
-  ➢HRRN     
-  ➢Priority(Non Preemptive)<br>
-  ➢Priority(Preemptive)
+    ➢FCFS               
+    ➢SJF              
+    ➢Round Robin          
+    ➢SRTF        
+    ➢LRTF       
+    ➢LJF       
+    ➢HRRN     
+    ➢Priority(Non Preemptive)<br>
+    ➢Priority(Preemptive)
   <br>
   
 2)**PROCESS SYNCHRONIZATION**
