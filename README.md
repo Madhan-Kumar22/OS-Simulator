@@ -14,7 +14,7 @@ Operating System (OS) is like the heart of a computer. Even though all the hardw
   ➢LRTF       
   ➢LJF       
   ➢HRRN     
-  ➢Priority(Non Preemptive)
+  ➢Priority(Non Preemptive)<br>
   ➢Priority(Preemptive)
   <br>
   
