@@ -18,7 +18,7 @@ Operating System (OS) is like the heart of a computer. Even though all the hardw
     ➢Priority(Preemptive)
   <br>
   
-2)**PROCESS SYNCHRONIZATION**
+2)**PROCESS SYNCHRONIZATION**<br>
   ➢READERS-WRITERS<br>
   ➢PRODUCER-CONSUMER<br>
   ➢DINING-PHILOSOPHERS<br>
