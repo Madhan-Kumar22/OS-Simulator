@@ -26,20 +26,24 @@ Operating System (OS) is like the heart of a computer. Even though all the hardw
   ➢SLEEPING-BARBERS<br>
 <br>
 
-3)**BANKER'S ALGORITHM**<br>
+3)**BANKER'S ALGORITHM**
+<br>
 4)**MFT**<br>
   ➢FIRST FIT<br>
   ➢BEST FIT<br>
   ➢WORST FIT<br>
+  
 5)**MVT**<br>
   ➢FIRST FIT<br>
   ➢BEST FIT<br>
   ➢WORST FIT<br>
+  
 6)**PAGE REPLACEMENT**<br>
   ➢FIFO<br>
   ➢LRU<br>
   ➢MRU<br>
   OPTIMAL<br>
+  
 7)**DISK SCHEDULING**<br>
   ➢FCFS<br>
   ➢SSTF<br>
@@ -47,6 +51,7 @@ Operating System (OS) is like the heart of a computer. Even though all the hardw
   ➢C-SCAN<br>
   ➢LOOK<br>
   ➢C-LOOK<br>
+  
 8)**PAGE TABLE**<br>
 
 # To Run :
