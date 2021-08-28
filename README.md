@@ -14,13 +14,13 @@ Operating System (OS) is like the heart of a computer. Even though all the hardw
   ➢HRRN      <br>      
   ➢Priority(Non Preemptive)<br>
   ➢Priority(Preemptive)  <br>
-  /n<br>
+  <br>
 2)PROCESS SYNCHRONIZATION<br>
   ➢READERS-WRITERS<br>
   ➢PRODUCER-CONSUMER<br>
   ➢DINING-PHILOSOPHERS<br>
   ➢SLEEPING-BARBERS<br>
-/n<br>
+<br>
 
 3)BANKER'S ALGORITHM<br>
 4)MFT<br>
