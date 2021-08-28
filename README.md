@@ -19,7 +19,6 @@ Operating System (OS) is like the heart of a computer. Even though all the hardw
   <br>
   
 2)**PROCESS SYNCHRONIZATION**
-
   ➢READERS-WRITERS<br>
   ➢PRODUCER-CONSUMER<br>
   ➢DINING-PHILOSOPHERS<br>
